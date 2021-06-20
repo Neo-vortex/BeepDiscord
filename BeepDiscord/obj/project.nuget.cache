@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sFMT/nfxpIjVKm9CGG1mcHmVZB+CvULs9sW/0HP3OJtRYlHhSXpkIXKAGw1XiFBPeqOZJkZ7nLX8obOWqSBnKg==",
+  "dgSpecHash": "Fps0GT48i+IRR7qc0qRoDjOBFeILNN1Es8fuYoUR4XLOMLzjXf9aYZk8XRv2zdANn2qeqlHoezE1z9rhR+fRZg==",
   "success": true,
-  "projectFilePath": "/home/noob/RiderProjects/BeepDiscord/BeepDiscord/BeepDiscord.csproj",
+  "projectFilePath": "/home/noob/Desktop/BeepDiscord/BeepDiscord/BeepDiscord.csproj",
   "expectedPackageFiles": [
     "/home/noob/.nuget/packages/dsharpplus/4.0.1/dsharpplus.4.0.1.nupkg.sha512",
     "/home/noob/.nuget/packages/emzi0767.common/2.6.1/emzi0767.common.2.6.1.nupkg.sha512",

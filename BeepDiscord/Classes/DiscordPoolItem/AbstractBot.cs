@@ -21,7 +21,7 @@ namespace BeepDiscord.Classes.DiscordPoolItem
         protected DiscordUser _BOT_USER { get; set; }
         protected string _ID { get; set; } = RandomGenerator.RandomString(Const.Consts._RANDOM_ID_LEN);
         protected string _TOKEN { get; set; }
-        public abstract  Task ErrorHandling(DiscordClient sender, SocketErrorEventArgs e);
+
 
         public AbstractBot(string Token, string ID, LogLevel Loglevel = LogLevel.Information)
         {
@@ -65,6 +65,7 @@ namespace BeepDiscord.Classes.DiscordPoolItem
             return Task.CompletedTask;
         }
 
+         public abstract Task ErrorHandling(DiscordClient sender, SocketErrorEventArgs e);
         private async Task BotInstanceOnMessageReactionRemoved(DiscordClient sender, MessageReactionRemoveEventArgs e)
         {
             await Task.Run(() =>
@@ -144,7 +145,7 @@ namespace BeepDiscord.Classes.DiscordPoolItem
             await Task.Run(() =>
             {
             var    constinfo = this.GetType().GetMethods()
-                    .Where(m => m.GetCustomAttributes(typeof(BotMessageResponse), false).Length > 0);
+                    .Where(m => m.GetCustomAttributes(typeof(BotMessageResponse),true ).Length > 0);
             var msgwithargs = e.Message.Content.Split(" ".ToCharArray()[0]);
                 Parallel.ForEach(constinfo, methodinfo =>
                 {

@@ -1,0 +1,9 @@
+/home/noob/Desktop/BeepDiscord/BeepDiscord/bin/Release/netstandard2.0/BeepDiscord.deps.json
+/home/noob/Desktop/BeepDiscord/BeepDiscord/bin/Release/netstandard2.0/BeepDiscord.dll
+/home/noob/Desktop/BeepDiscord/BeepDiscord/bin/Release/netstandard2.0/BeepDiscord.pdb
+/home/noob/Desktop/BeepDiscord/BeepDiscord/obj/Release/netstandard2.0/BeepDiscord.csproj.AssemblyReference.cache
+/home/noob/Desktop/BeepDiscord/BeepDiscord/obj/Release/netstandard2.0/BeepDiscord.AssemblyInfoInputs.cache
+/home/noob/Desktop/BeepDiscord/BeepDiscord/obj/Release/netstandard2.0/BeepDiscord.AssemblyInfo.cs
+/home/noob/Desktop/BeepDiscord/BeepDiscord/obj/Release/netstandard2.0/BeepDiscord.csproj.CoreCompileInputs.cache
+/home/noob/Desktop/BeepDiscord/BeepDiscord/obj/Release/netstandard2.0/BeepDiscord.dll
+/home/noob/Desktop/BeepDiscord/BeepDiscord/obj/Release/netstandard2.0/BeepDiscord.pdb

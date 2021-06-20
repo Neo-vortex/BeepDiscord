@@ -4361,11 +4361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/noob/RiderProjects/BeepDiscord/BeepDiscord/BeepDiscord.csproj",
+      "projectUniqueName": "/home/noob/Desktop/BeepDiscord/BeepDiscord/BeepDiscord.csproj",
       "projectName": "BeepDiscord",
-      "projectPath": "/home/noob/RiderProjects/BeepDiscord/BeepDiscord/BeepDiscord.csproj",
+      "projectPath": "/home/noob/Desktop/BeepDiscord/BeepDiscord/BeepDiscord.csproj",
       "packagesPath": "/home/noob/.nuget/packages/",
-      "outputPath": "/home/noob/RiderProjects/BeepDiscord/BeepDiscord/obj/",
+      "outputPath": "/home/noob/Desktop/BeepDiscord/BeepDiscord/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/noob/.nuget/NuGet/NuGet.Config"
